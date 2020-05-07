@@ -1,0 +1,9 @@
+C:\Users\Simon\source\repos\CriticalPath\Berechnung\bin\Debug\netstandard2.0\Berechnung.deps.json
+C:\Users\Simon\source\repos\CriticalPath\Berechnung\bin\Debug\netstandard2.0\Berechnung.dll
+C:\Users\Simon\source\repos\CriticalPath\Berechnung\bin\Debug\netstandard2.0\Berechnung.pdb
+C:\Users\Simon\source\repos\CriticalPath\Berechnung\obj\Debug\netstandard2.0\Berechnung.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\CriticalPath\Berechnung\obj\Debug\netstandard2.0\Berechnung.AssemblyInfo.cs
+C:\Users\Simon\source\repos\CriticalPath\Berechnung\obj\Debug\netstandard2.0\Berechnung.dll
+C:\Users\Simon\source\repos\CriticalPath\Berechnung\obj\Debug\netstandard2.0\Berechnung.pdb
+C:\Users\Simon\source\repos\CriticalPath\Berechnung\obj\Debug\netstandard2.0\Berechnung.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\CriticalPath\Berechnung\obj\Debug\netstandard2.0\Berechnung.csproj.CoreCompileInputs.cache

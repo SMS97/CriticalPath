@@ -1,0 +1,34 @@
+﻿<Window x:Class="CriticalPath.MainWindow"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:uc="clr-namespace:CriticalPath"
+    Title="Netzplan" Height="1080" Width="1920" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="SingleBorderWindow"
+        WindowState="Maximized">
+    <Grid>
+        <DockPanel>
+            <Menu>
+                <MenuItem Header="_File">
+                    <MenuItem Header="_New" Click="MenuItem_Click"/>
+                    <MenuItem Header="_Load"/>
+                    <MenuItem Header="_Save"/>
+                    <Separator/>
+                    <MenuItem Header="_Exit"/>
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+        <StackPanel x:Name="stack" Grid.Row="1"/>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+
+
+
+
+
+
+    </Grid>
+
+</Window>

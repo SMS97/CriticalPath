@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E5vCg/ry1B0xWxdhMzizBhu97xs/yB9ulaNwferkd8EFP59UtINrxsQhfdydTSCtEVYQYn1793cSCoLtADz9xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Simon\\source\\repos\\CriticalPath\\Berechnung\\Berechnung.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
